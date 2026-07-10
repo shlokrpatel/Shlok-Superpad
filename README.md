@@ -15,12 +15,21 @@ I'm screwing direcrly into the plastic with 2.9mm holes for construction of the 
 
 # BOM
 1 Seeeduino XIAO RP2040
+
 9 MX- style switches
+
 9 DSA keycaps
+
 10 1N4148 Diodes
+
 1 EC11 rotary encoder
+
 9 SK6812 MINI-E LEDs
+
 1 0.91 in OLED 
+
 1 custom pcb
+
 1 3D printed case(2 parts)
+
 4 M3x16mm scews

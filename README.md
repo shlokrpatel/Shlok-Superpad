@@ -8,7 +8,8 @@ I'm screwing direcrly into the plastic with 2.9mm holes for construction of the 
 # PCB
 <img width="1604" height="1093" alt="Screenshot 2026-07-10 160123" src="https://github.com/user-attachments/assets/4bc95bf5-0721-4024-926f-ebbf980ce0fc" />
 
-<img width="953" height="1197" alt="Screenshot 2026-07-10 160159" src="https://github.com/user-attachments/assets/add81646-dff6-4347-a757-066acf6b5fb9" />
+<img width="859" height="1128" alt="image" src="https://github.com/user-attachments/assets/e730aa38-661a-4195-93f6-7bd02ac3712a" />
+
 
 # Case
 <img width="1929" height="1015" alt="Screenshot 2026-07-10 160324" src="https://github.com/user-attachments/assets/69a7a3a7-9a49-4e77-9f6b-6f62c9ac6e0c" />
